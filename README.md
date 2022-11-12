@@ -1,8 +1,29 @@
 # BeAcademy - FromZeroToHero
+
 #### Projeto dos Módulos do Bootcamp: From Zero To Hero da Be.Academy
 
 # Módulo 1 - Softskills e Metodologia Ágil
+
+* A Diferença entre Velha Economia e Nova Economia
+* Como Aprender Tecnologia
+* Comunicação Assertiva
+* Cultura e Times Ágeis
+
 # Módulo 2 - Excel Básico e Intermediário
+
+* Introdução ao Excel - Ferramentas de Formatação
+* Formatação de Informação
+* Filtro e Classificação
+* Cálculos
+* Cálculos com Porcentagens
+* Função SE
+* Função SE - Parte2
+* Alça de Preenchimento
+* Funções Básicas
+* Funções - Contagem
+* Função PROCV
+* Função PROCX
+* Gráficos
 
 # Módulo 3 - Git e Github
 
@@ -94,6 +115,36 @@ https://github.com/Vladoxx/BeAcademy_FromZeroToHero_Logica
 * Matriz
 
 # Módulo 7 - Introdução ao Banco de Dados
+
+* Introdução ao Banco de Dados
+* O que é Banco de Dados
+* Estrutura de um Banco de Dados
+* Entendendo a Estrutura de um Banco de Dados
+* Linguagem SQL
+* Modelo Relacional
+* SQL na Prática
+
 # Módulo 8 - Introdução a Java Script
+
+https://github.com/Vladoxx/BeAcademy_FromZeroToHero_JavaScript
+
+* Introdução JavaScript
+* Primeiros Passos
+* Tipo de dados
+* Variáveis parte I
+* Variáveis parte II
+* Praticando
+* Função Parte I
+* Função Parte II
+* Função Parte III
+* Função Parte IV
+* Função Parte V
+* Manipulando Dados (String e Array) Parte I
+* Manipulando Dados (String e Array) Parte II
+* Manipulando Dados (String e Array) Parte III
+* Operadores
+* Controle e condições (IF_ELSE e Switch)
+* Controle e condições (Throw e Try and Catch)
+* Estrutura de repetição
 
 
