@@ -1,6 +1,6 @@
 # BeAcademy - FromZeroToHero
 
-#### Projeto dos Módulos do Bootcamp: From Zero To Hero da Be.Academy
+## Projeto dos Módulos do Bootcamp: From Zero To Hero da Be.Academy
 
 # Módulo 1 - Softskills e Metodologia Ágil
 
