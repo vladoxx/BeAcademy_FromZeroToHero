@@ -164,7 +164,7 @@ https://github.com/Vladoxx/BeAcademy_FromZeroToHero_JavaScript_Intermediario
 * Promisses - Async / Await
 * Try / Catch
 * Rest Spread - Destructuring
-* Recrusion
+* Recursion
 
 # Módulo 10 - Solid
 
