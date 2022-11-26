@@ -2,14 +2,14 @@
 
 ## Projeto dos Módulos do Bootcamp: From Zero To Hero da Be.Academy
 
-# Módulo 1 - Softskills e Metodologia Ágil
+## Módulo 1 - Softskills e Metodologia Ágil
 
 * A Diferença entre Velha Economia e Nova Economia
 * Como Aprender Tecnologia
 * Comunicação Assertiva
 * Cultura e Times Ágeis
 
-# Módulo 2 - Excel Básico e Intermediário
+## Módulo 2 - Excel Básico e Intermediário
 
 * Introdução ao Excel - Ferramentas de Formatação
 * Formatação de Informação
@@ -25,7 +25,7 @@
 * Função PROCX
 * Gráficos
 
-# Módulo 3 - Git e Github
+## Módulo 3 - Git e Github
 
 https://github.com/Vladoxx/BeAcademy_FromZeroToHero_Git_Github
 
@@ -47,7 +47,7 @@ __Comandos usados__                            | __Descripção__
 *__git pull__*                                 | *__Trazer mudanças do rep. remoto__*
 *__git log__*                                  | *__Histórico dos commits__*
 
-# Módulo 4 - HTML
+## Módulo 4 - HTML
 
 https://github.com/Vladoxx/BeAcademy_FromZeroToHero_HTML
 
@@ -74,7 +74,7 @@ https://github.com/Vladoxx/BeAcademy_FromZeroToHero_HTML
 * Formulários - Textarea e Optgroup
 * SEO
 
-# Módulo 5 - CSS
+## Módulo 5 - CSS
 
 https://github.com/Vladoxx/BeAcademy_FromZeroToHero_CSS
 
@@ -97,7 +97,7 @@ https://github.com/Vladoxx/BeAcademy_FromZeroToHero_CSS
 * Pseudo Class e Element Parte III
 * Design responsivo
 
-# Módulo 6 - Lógica de Programação
+## Módulo 6 - Lógica de Programação
 
 https://github.com/Vladoxx/BeAcademy_FromZeroToHero_Logica
 
@@ -114,7 +114,7 @@ https://github.com/Vladoxx/BeAcademy_FromZeroToHero_Logica
 * Estruturas de Dados
 * Matriz
 
-# Módulo 7 - Introdução ao Banco de Dados
+## Módulo 7 - Introdução ao Banco de Dados
 
 * Introdução ao Banco de Dados
 * O que é Banco de Dados
@@ -124,7 +124,7 @@ https://github.com/Vladoxx/BeAcademy_FromZeroToHero_Logica
 * Modelo Relacional
 * SQL na Prática
 
-# Módulo 8 - Introdução a Java Script
+## Módulo 8 - Introdução a Java Script
 
 https://github.com/Vladoxx/BeAcademy_FromZeroToHero_JavaScript
 
@@ -147,7 +147,7 @@ https://github.com/Vladoxx/BeAcademy_FromZeroToHero_JavaScript
 * Controle e condições (Throw e Try and Catch)
 * Estrutura de repetição
 
-# Módulo 9 - Java Script Intermediário
+## Módulo 9 - Java Script Intermediário
 
 https://github.com/Vladoxx/BeAcademy_FromZeroToHero_JavaScript_Intermediario
 
@@ -166,7 +166,24 @@ https://github.com/Vladoxx/BeAcademy_FromZeroToHero_JavaScript_Intermediario
 * Rest Spread - Destructuring
 * Recursion
 
-# Módulo 10 - Solid
+## Módulo 10 - Solid
 
-## Indisponivel
+## Projeto Final
 
+https://github.com/Vladoxx/BeAcademy_FromZeroToHero_ProjetoFinal
+
+### 1- Planilha de Excel
+
+* Seleção e manipulação de intervalos,
+* Formatação por tipos de células (texto, número, hora, percentual etc),
+* Formatação condicional,
+* Gráfico,
+* Classificação e filtro,
+* Fórmulas,
+* Funções,
+* Procs,
+* Tabela dinâmica
+
+### 2- Landing Page
+
+### 3- Banco de Dados
