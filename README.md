@@ -61,6 +61,8 @@ https://github.com/Vladoxx/BeAcademy_FromZeroToHero_JavaScript_Intermediario
 
 ## Módulo 10 - Solid
 
+https://github.com/Vladoxx/BeAcademy_FromZeroToHero_Solid
+
 ## Projeto Final
 
 https://github.com/Vladoxx/BeAcademy_FromZeroToHero_ProjetoFinal
